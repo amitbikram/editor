@@ -18,18 +18,6 @@ npm start
 npm run build
 ```
 
-## How to run unit tests
-
-```sh
-# Runs tests in Firefox
-npm test -- --firefox
-
-# Runs tests in Chrome
-npm test -- --chrome
-
-# Runs tests in Safari
-npm test -- --safari
-```
 
 ## What does each file do?
 
